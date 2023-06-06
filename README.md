@@ -1,33 +1,34 @@
-# Tailwind express TypeScript Blog
+### `This is blog project created by Lysander steWart`
 
-> Blogging starter template based on [Tailwind](https://github.com/tailwindlabs/tailwindcss) + [Express.js](https://github.com/vercel/express.js) + **[TypeScript](https://github.com/microsoft/TypeScript)**.
+### `Features`
 
-## Available Scripts
+-using stack: React, Redux, Typescript, Node, Express and Tailwind CSS
+-simple authentication funtionality such as sign up, sign in, sign out.
+-flexible dashboard functionality showing all list of blogs whoever he is.
+-detail page functionality for a authenticated user.
+-change and update functionality in the case of authenticated user.
+-watches count by using watche button.
+-useful alerts functionality such as "invalid user" or "successfully registered!" and so on.
 
-In the project directory(frontend and backend) , you can run:
+### `To start`
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:8000) to view it in the browser.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### `npm run build`
 
-## Learn More
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `npm run server`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Runs the app in the development mode.\
+Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
-### Advanced Configuration
+to start project easily :
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### `npm run dev`
 
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+start frontend server and backend server concurrently.
