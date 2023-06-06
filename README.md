@@ -6,9 +6,10 @@
 -simple authentication funtionality such as sign up, sign in, sign out.
 -flexible dashboard functionality showing all list of blogs whoever he is.
 -detail page functionality for a authenticated user.
--change and update functionality in the case of authenticated user.
--watches count by using watche button.
--useful alerts functionality such as "invalid user" or "successfully registered!" and so on.
+-likes only count by other user without authenticated user 
+-Edit is using with pressing button in navbar and in here,authenticated users should edit their blog content 
+-watches count by using watch button but authenticated users can't suggest their blogs.
+-creation blog button and creation blogs have animation property 
 
 ### `To start`
 
