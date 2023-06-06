@@ -1,6 +1,6 @@
-### `This is blog project created by Lysander steWart`
+# `This is blog project created by Lysander steWart`
 
-### `Features`
+## `Features`
 
 -using stack: React, Redux, Typescript, Node, Express and Tailwind CSS
 -simple authentication funtionality such as sign up, sign in, sign out.
@@ -10,8 +10,12 @@
 -Edit is using with pressing button in navbar and in here,authenticated users should edit their blog content 
 -watches count by using watch button but authenticated users can't suggest their blogs.
 -creation blog button and creation blogs have animation property 
+## Tailwind express TypeScript Blog
 
-### `To start`
+> Blogging starter template based on [Tailwind](https://github.com/tailwindlabs/tailwindcss) + [Express.js](https://github.com/vercel/express.js) + **[TypeScript](https://github.com/microsoft/TypeScript)**.
+## Available Scripts
+
+In the project directory(frontend and backend) , you can run:
 
 ### `npm start`
 
@@ -33,3 +37,6 @@ to start project easily :
 ### `npm run dev`
 
 start frontend server and backend server concurrently.
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
