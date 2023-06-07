@@ -1,0 +1,9 @@
+export const BASE_URL = "http://localhost:8000";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const ADD_BLOG='ADD_BLOG';
+export const EDIT_BLOG='EDIT_BLOG';
+export const DELETE_BLOG='DELETE_BLOG';
+export const READ_BLOG='READ_BLOG';
+export const WATCH_BLOG='WATCH_BLOG';
+export const ADD_LIKE='ADD_LIKE';
+export const SORT_BLOGS='SORT_BLOGS';
